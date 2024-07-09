@@ -1,0 +1,6 @@
+{
+  "backend": "http://localhost:3002",
+  "openAIKey": "INSERT_KEY_HERE",
+  "port": 3002,
+  "timeoutAIRequestMinutes": 5
+}

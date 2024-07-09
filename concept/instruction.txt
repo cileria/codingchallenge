@@ -1,0 +1,14 @@
+1. Make sure that you are running Node version v21.4.0 and NPM version 10.2.4, or newer.
+2. Clone the repo https://github.com/cileria/codingchallenge
+3. Open your terminal and enter the folder "code/app".
+4. Run "npm install".
+5. Run "npm run start"
+6. Open your browser and type "http://localhost:3000" and make sure that you see the "Hallo World" and the button "Click Me!"
+8. Run "npm install -g ts-node" in order to install Node with TypeScript. 
+9. Enter the folder "code/server".
+10. Open backend.json and add your OpenAI key.
+11. Run "ts-node server.ts"
+12. Open your browser and type "http://localhost:3002" and make sure that you see {"errorId": 0, "server": 1}
+13. Please follow the instructions in mockup.pdf
+
+Feel free to use Google, ChatGPT etc. and be ready to present your solution at around 18:00
