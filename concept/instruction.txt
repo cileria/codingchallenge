@@ -9,6 +9,14 @@
 10. Open backend.json and add your OpenAI key.
 11. Run "ts-node server.ts"
 12. Open your browser and type "http://localhost:3002" and make sure that you see {"errorId": 0, "server": 1}
-13. Please follow the instructions in mockup.pdf
+13. Make sure that the server is running and open "http://localhost:3000". 
+14. Open your Chrome Devtools and watch the console.
+15. Click the button "Click Me!" and make sure that you see some output.
+16. Please follow the instructions in mockup.pdf
 
-Feel free to use Google, ChatGPT etc. and be ready to present your solution at around 18:00
+Hint: Feel free to use Google, ChatGPT etc. and be ready to present your solution at around 18:00
+For debugging/ understanding the code, we recommend you use the chrome debugger which you can open
+with Ctrl+Shift+C. There, press Ctrl+P and type "app.js" which opens the source map of App.js in which
+you can set/remove breakpoints.
+
+Happy coding and good luck!
